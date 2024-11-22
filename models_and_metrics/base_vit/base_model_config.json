@@ -1,1 +1,0 @@
-{"num_classes": 10, "num_epochs": 1000, "patience": 5, "lr": 0.0001, "total_parameters": 85806346}
