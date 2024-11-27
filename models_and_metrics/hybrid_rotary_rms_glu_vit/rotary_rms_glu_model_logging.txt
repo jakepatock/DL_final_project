@@ -1,0 +1,119 @@
+Epoch 1
+Train:      Loss = 2.0155650828885543, Accuracy = 0.3662933333333334
+Validation: Loss = 1.4008602395890251, Accuracy = 0.5365853658536586, Recall = 0.5354787260818229, Precision = 0.5816308330389770
+Epoch Time: 247 Seconds
+Current Patience: 0
+
+Epoch 2
+Train:      Loss = 1.2692115801186286, Accuracy = 0.5840000000000000
+Validation: Loss = 1.1219672002489605, Accuracy = 0.6306620209059234, Recall = 0.6294861505855018, Precision = 0.6456394057211204
+Epoch Time: 245 Seconds
+Current Patience: 0
+
+Epoch 3
+Train:      Loss = 0.9262369595493473, Accuracy = 0.6930133333333334
+Validation: Loss = 1.1308447680776081, Accuracy = 0.6431060228969636, Recall = 0.6422005935742806, Precision = 0.6707637221726725
+Epoch Time: 245 Seconds
+Current Patience: 1
+
+Epoch 4
+Train:      Loss = 0.9278463774166823, Accuracy = 0.6945066666666667
+Validation: Loss = 1.0696189450839209, Accuracy = 0.6645097063215530, Recall = 0.6642077421303416, Precision = 0.6832675791622217
+Epoch Time: 245 Seconds
+Current Patience: 0
+
+Epoch 5
+Train:      Loss = 0.6449543628269495, Accuracy = 0.7886933333333334
+Validation: Loss = 1.1557473549767145, Accuracy = 0.6540567446490791, Recall = 0.6518679932322412, Precision = 0.6642805002333538
+Epoch Time: 245 Seconds
+Current Patience: 1
+
+Epoch 6
+Train:      Loss = 0.6543987561716561, Accuracy = 0.7816533333333333
+Validation: Loss = 1.1458451771546925, Accuracy = 0.6535589845694375, Recall = 0.6533863180580590, Precision = 0.6797295100809029
+Epoch Time: 245 Seconds
+Current Patience: 2
+
+Epoch 7
+Train:      Loss = 0.6511557934227250, Accuracy = 0.7866666666666666
+Validation: Loss = 1.1395366939287337, Accuracy = 0.6749626679940269, Recall = 0.6730749328192743, Precision = 0.6848669229860137
+Epoch Time: 245 Seconds
+Current Patience: 3
+
+Epoch 8
+Train:      Loss = 0.3949200263304108, Accuracy = 0.8782933333333334
+Validation: Loss = 0.9058258230724032, Accuracy = 0.7212543554006968, Recall = 0.7205698605212593, Precision = 0.7246321227542347
+Epoch Time: 245 Seconds
+Current Patience: 0
+
+Epoch 9
+Train:      Loss = 0.2408090139462679, Accuracy = 0.9321600000000000
+Validation: Loss = 0.9227142570510743, Accuracy = 0.7197610751617720, Recall = 0.7187004979837306, Precision = 0.7207176883351620
+Epoch Time: 245 Seconds
+Current Patience: 1
+
+Epoch 10
+Train:      Loss = 0.2454643204503092, Accuracy = 0.9317333333333333
+Validation: Loss = 0.9240457287856511, Accuracy = 0.7217521154803385, Recall = 0.7208687994270305, Precision = 0.7227696394578824
+Epoch Time: 245 Seconds
+Current Patience: 2
+
+Epoch 11
+Train:      Loss = 0.2433677464469301, Accuracy = 0.9318400000000000
+Validation: Loss = 0.9273191349846976, Accuracy = 0.7262319561971130, Recall = 0.7253047356314883, Precision = 0.7269758637990476
+Epoch Time: 245 Seconds
+Current Patience: 3
+
+Epoch 12
+Train:      Loss = 0.2485138621727964, Accuracy = 0.9320533333333333
+Validation: Loss = 0.9001929031478034, Accuracy = 0.7207565953210553, Recall = 0.7197505073602115, Precision = 0.7222189890488936
+Epoch Time: 245 Seconds
+Current Patience: 0
+
+Epoch 13
+Train:      Loss = 0.2354806230082447, Accuracy = 0.9366400000000000
+Validation: Loss = 0.9012319672675360, Accuracy = 0.7217521154803385, Recall = 0.7207430450376245, Precision = 0.7228191143635220
+Epoch Time: 245 Seconds
+Current Patience: 1
+
+Epoch 14
+Train:      Loss = 0.2338254136055606, Accuracy = 0.9386666666666666
+Validation: Loss = 0.8998312888637422, Accuracy = 0.7207565953210553, Recall = 0.7197505073602115, Precision = 0.7215819651628357
+Epoch Time: 245 Seconds
+Current Patience: 0
+
+Epoch 15
+Train:      Loss = 0.2173446969609110, Accuracy = 0.9464533333333334
+Validation: Loss = 0.9066508691462259, Accuracy = 0.7207565953210553, Recall = 0.7197456300251874, Precision = 0.7216574626293182
+Epoch Time: 245 Seconds
+Current Patience: 1
+
+Epoch 16
+Train:      Loss = 0.2181177806401619, Accuracy = 0.9447466666666666
+Validation: Loss = 0.9056660935046181, Accuracy = 0.7252364360378297, Recall = 0.7242756179413943, Precision = 0.7261518578701669
+Epoch Time: 245 Seconds
+Current Patience: 2
+
+Epoch 17
+Train:      Loss = 0.2162112065244453, Accuracy = 0.9459200000000000
+Validation: Loss = 0.9059895631812868, Accuracy = 0.7217521154803385, Recall = 0.7207454837051367, Precision = 0.7226643933875726
+Epoch Time: 245 Seconds
+Current Patience: 3
+
+Epoch 18
+Train:      Loss = 0.2194845087241394, Accuracy = 0.9428266666666667
+Validation: Loss = 0.9004833442824227, Accuracy = 0.7222498755599801, Recall = 0.7212380945425750, Precision = 0.7229387151832531
+Epoch Time: 245 Seconds
+Current Patience: 4
+
+Epoch 19
+Train:      Loss = 0.2164961644941019, Accuracy = 0.9447466666666666
+Validation: Loss = 0.9003914916326129, Accuracy = 0.7227476356396217, Recall = 0.7217307053800135, Precision = 0.7235970173864239
+Epoch Time: 245 Seconds
+Current Patience: 5
+
+Early Stopper Triggered
+Kept Epoch: 14
+Train Loss 0.2338254136055606, Accuracy = 0.9386666666666666  
+Val   Loss = 0.8998312888637422, Accuracy = 0.7207565953210553, Recall = 0.7197505073602115, Precision = 0.7215819651628357
+Total Training Time 4661 Seconds
