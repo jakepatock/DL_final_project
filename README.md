@@ -3,7 +3,7 @@
 ### Abstract
 Since its proposal in 2017, the Natural Language
 Processing (NLP) sequence transformer architecture has become
-a staple in the Machine Learning world [1]. Its brilliant yet
+a staple in the Machine Learning world. Its brilliant yet
 simplistic approach of replacing convolutional or recurrent-based
 architectures with an attention-based architecture expanded the
 computational ability to analyze more significant inputs and out-
@@ -15,7 +15,7 @@ Unit (GLUs), Expanded Activation, ReZero, and Rotary. Also,
 four hybrid models using said advancements were benchmarked
 on a simple image classification task using Imagenette, a smaller
 10-class subset of the ImageNet dataset containing approximately
-10,000 images, chosen due to computational constraints [21]. The
+10,000 images, chosen due to computational constraints. The
 ViTs were evaluated using the macro average precision (MAP)
 metric in relation to the MAP score of the original transformer
 architecture. The best model (Hybrid 2 using GLUs, rotary
